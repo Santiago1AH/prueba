@@ -7,7 +7,7 @@
 package prueba;
 
 /**
- *
+ *Esta es una clase para visualizar resultados
  * @author Santiago
  */
 public class Visualizador {
