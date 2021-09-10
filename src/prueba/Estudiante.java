@@ -7,7 +7,7 @@
 package prueba;
 
 /**
- *
+ * Esta clase es una unidad Estudiante  
  * @author Santiago
  */
 public class Estudiante {
